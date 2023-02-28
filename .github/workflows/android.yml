@@ -44,6 +44,6 @@ jobs:
 
         name: app-release
 
-        path: /home/runner/work/HexEditor/HexEditor/app/build/output/*
+        path: /home/runner/work/HexEditor/HexEditor/app/build/*
 
         
